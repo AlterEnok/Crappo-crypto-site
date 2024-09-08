@@ -1225,6 +1225,7 @@ roadmap__item--right .roadmap__picture {
         width: 120px;
         height: 48px;
         font-size: 14px;
+        margin: 15px;
     }
 
     .text__title {
@@ -1489,6 +1490,10 @@ roadmap__item--right .roadmap__picture {
         top: -6px;
     }
 
+    .why-btn {
+        margin: 15px;
+    }
+
     .footer__payments {
         margin-left: 0;
     }
@@ -1510,6 +1515,7 @@ roadmap__item--right .roadmap__picture {
         position: absolute;
         left: 60px;
     }
+
 }
 
 @media (max-width: 367px) {
@@ -1517,5 +1523,9 @@ roadmap__item--right .roadmap__picture {
         margin: 0;
         position: relative;
         top: -6px;
+    }
+
+    .why-btn {
+        margin: 15px;
     }
 }
