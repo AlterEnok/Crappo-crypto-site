@@ -131,7 +131,7 @@ body {
     align-items: center;
     margin-top: 50px;
     position: relative;
-    background-image: url('images/line.png'), url('images/line.png');
+    background-image: url('../images/line.png'), url('../images/line.png');
     background-repeat: no-repeat;
     background-position: 150px 150px, 210px 350px;
     background-size: auto, auto;
@@ -388,7 +388,7 @@ element.style {
     align-items: center;
     margin-top: 80px;
     margin-bottom: 155px;
-    background-image: url('images/bit.png');
+    background-image: url('../images/bit.png');
     background-repeat: no-repeat;
     background-position: right -60px top -40px;
     background-size: auto;
@@ -479,7 +479,7 @@ element.style {
 .text {
     text-align: center;
     padding-bottom: 60px;
-    background-image: url('images/bit-2.png');
+    background-image: url('../images/bit-2.png');
     background-repeat: no-repeat;
     background-position: right -30px top -10px;
     background-size: auto;
