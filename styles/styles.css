@@ -1253,6 +1253,7 @@ roadmap__item--right .roadmap__picture {
         width: 100%;
         margin: 0 0 20px 0;
         background-position: 98% 50%;
+        flex: 0;
     }
 
     .calc-head__btn {
